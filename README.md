@@ -12,7 +12,7 @@ This repository contains the SQL database for an electronics store. The database
 ## Technologies
 
 - **Database System**: Microsoft SQL Server
-- **Version**: Compatible with MSSQL 2019+ (AdventureWorks2022 compatible)
+- **Version**: Compatible with MSSQL 2019+
 - **Language**: T-SQL (Transact-SQL)
 
 ## Schemas and Tables
